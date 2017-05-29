@@ -1,6 +1,7 @@
 Details:
 
 Contains implementation of the following sorting Algorithm along with Time Complexity Analysis
+
 1.Insertion Sort
 2.Counting Sort
 3.Quick Sort
